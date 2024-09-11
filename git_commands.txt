@@ -1,0 +1,34 @@
+GIT INIT - Naredi .git DIR - Git Skeleton
+
+
+
+
+GIT CLONE - For downloading existing source code from a remote repository (like Github).
+|
+git clone <https://name-of-the-repository-link>
+|
+git clone https://github.com/libgit2/libgit2 mylibgit           #kopira project iz linka na podan folder (ga sam naredi / drgač error)
+___________________________________________________________
+
+
+GIT STATUS
+git status - pove kaj je trackan kaj nis
+
+
+
+
+
+
+GIT BRANCH - By using branches, several developers are able to work in parallel on the same project simultaneously.
+|
+git branch <branch-name>              # Create a branch localy
+|
+git push -u <remote> <branch-name> 
+
+___________________________________________________________
+
+
+
+
+
+Source: https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
