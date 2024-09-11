@@ -14,9 +14,13 @@ ___________________________________________________________
 GIT STATUS
 git status - pove kaj je trackan kaj nis
 
+___________________________________________________________
 
+GIT ADD <file>
 
+git add *       - vse da v git
 
+___________________________________________________________
 
 
 GIT BRANCH - By using branches, several developers are able to work in parallel on the same project simultaneously.
@@ -26,9 +30,21 @@ git branch <branch-name>              # Create a branch localy
 git push -u <remote> <branch-name> 
 
 ___________________________________________________________
+GIT COMMIT
+git commit -m "name"
 
 
+___________________________________________________________
+git remote add pb https://github.com/paulboone/ticgi 
+< ukaz       > shortName     LINK
 
 
+___________________________________________________________
+
+GIT remote
+
+git remote -v          #NA kere remote si
+
+___________________________________________________________
 
 Source: https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
